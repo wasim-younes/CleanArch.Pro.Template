@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="CleanArch.Application/CleanArch.Application.csproj" />
+  <Project Path="CleanArch.Domain/CleanArch.Domain.csproj" />
+  <Project Path="CleanArch.Infrastructure/CleanArch.Infrastructure.csproj" />
+  <Project Path="CleanArch.WebAPI/CleanArch.WebAPI.csproj" />
+</Solution>

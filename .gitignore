@@ -1,0 +1,11 @@
+## Visual Studio Temporary Files
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.userosscache
+*.sln.docstates
+
+## OS Files
+.DS_Store
+Thumbs.db
